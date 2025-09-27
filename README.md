@@ -9,6 +9,4 @@
 
 ## Test repo for the Version Control Essentials course.
 
-🌍 Hello World! 
-
-## This is the dev branch
+🌍 Hello World!
